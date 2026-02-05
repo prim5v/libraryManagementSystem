@@ -94,7 +94,3 @@ These tests ensure the system behaves correctly under valid and invalid conditio
 ### Compilation
 ```bash
 g++ library.cpp -o library
-
-### To run
-```bash
-./library
